@@ -1,16 +1,15 @@
 # AnimeOut Ez Downloader V1.0
 Thanks For Downloading My App <3
 
-To start IDM and Pot Player you Should install and add them to system path using Add_to_PATH.exe file included in rar.
+To start IDM and Pot Player you Should install and add them to system path using Add_to_PATH.exe file included in rar.<br>
 **(Run Add_to_PATH.exe as administrator)**
 
-You must install these applications into this specific directory:
-	-install pot player into *C:\Program Files\DAUM\PotPlayer*
-	-install idm into *C:\Program Files (x86)\Internet Download Manager*
-**Or you can change their directory in AppConfig.json**
+You must install these applications into this specific directory:<br>
+	-install pot player into *C:\Program Files\DAUM\PotPlayer*<br>
+	-install idm into *C:\Program Files (x86)\Internet Download Manager*<br>
+**Or you can change their directory in AppConfig.json**<br>
 
 ### App configurations Guid (AppConfig.json):
-
 	POT: Pot player Directory Path
 	IDM: Internet Download Manager Directory Path
 
