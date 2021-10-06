@@ -27,7 +27,8 @@ You must install these applications into this specific directory:<br>
 		Hint: Auto add link to IDM Queue but doesn't start automatically
 	rename:
 		Values: (True / False)
-		Hint: Organize and Edit Movie Name(Ex. change "[animeout] Anime Name - 01 720p [codec].mkv" to "Anime Name - 01.mkv")
+		Hint: Organize and Edit Movie Name
+		Ex: change "[animeout] Anime Name - 01 720p [codec].mkv" to "Anime Name - 01.mkv"
 
 ### If you have any problem with my app tell me on telegram: @mirhosseinf79
 **Thank you.**
