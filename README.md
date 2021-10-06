@@ -30,5 +30,5 @@ You must install these applications into this specific directory:<br>
 		Hint: Organize and Edit Movie Name
 		Ex: change "[animeout] Anime Name - 01 720p [codec].mkv" to "Anime Name - 01.mkv"
 
-### If you have any problem with my app tell me on telegram: @mirhosseinf79
+### If you have any problem with my app tell me on telegram: [Contact Me](https://t.me/mirhosseinf79)
 **Thank you.**
