@@ -1,0 +1,14 @@
+{
+	"PATH":{
+		"POT":"C:\\Program Files\\DAUM\\PotPlayer",
+		"IDM":"C:\\Program Files (x86)\\Internet Download Manager"
+	},
+
+	"AnimeOut":{
+		"q_filter": "720",
+		"check_link": "False",
+		"stream": "False",
+		"auto_dl": "True",
+		"rename": "True"
+	}
+}
