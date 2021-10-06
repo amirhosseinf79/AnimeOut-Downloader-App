@@ -5,8 +5,8 @@ To start IDM and Pot Player you Should install and add them to system path using
 **(Run Add_to_PATH.exe as administrator)**
 
 You must install these applications into this specific directory:
-- install pot player into *C:\Program Files\DAUM\PotPlayer*
-- install idm into *C:\Program Files (x86)\Internet Download Manager*
+- install Pot Player into *C:\Program Files\DAUM\PotPlayer*
+- install IDM into *C:\Program Files (x86)\Internet Download Manager*
 - **Or you can Install them to another Directory than change their directory in AppConfig.json**
 
 ### App configurations Guid (AppConfig.json):
