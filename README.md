@@ -5,6 +5,7 @@ Thanks For Downloading My App <3
 AnimeOut Downloader is not working Couse of CloudFlare!<br>
 ***In addition, due to the failure of the download server of the site, the program is currently useless***<br>
 Thank you for supporting this program💓
+[Reach Issue](https://github.com/amirhosseinf79/AnimeOut-Downloader-App/issues/1)
 
 ### Installation
 To start IDM and Pot Player you Should install and add them to system path using Add_to_PATH.exe file included in rar.<br>
